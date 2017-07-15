@@ -1,7 +1,5 @@
-####################
-#  Spleef Runners  #                                                       
-#       v1.2       #
-####################
+SpleefRunners v1.2
+Version: BETA
 		
 Thank you for downloading our map!
 
