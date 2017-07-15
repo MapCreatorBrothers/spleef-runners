@@ -1,14 +1,24 @@
-SpleefRunners v1.2
-Version: BETA
-		
-Thank you for downloading our map!
+🏁 SpleefRunners 🏁 | Mini-Game
 
-Setup:
-- 1. Copy and paste the map folder to your minecraft saves folder.
-- 2. Map has been installed succesfully.
-- 3. If you are in the map, first of all you need to reset the game.
-- 4. After that, you can play! ENJOY :)
+More modern, more beautiful version of TNTRun!
+
+Creators:
+
+- rUseLieFX (CommandBlocks; Ground Designer)
+- Markio (Builder; Designer)
+
+Features:
+- Multiplayer support.
+- Lobby system.
+- Reset system.
+- Information room. (Gameplay)
+- Nice design.
+- "Last winner" sign.
+- Results on the scoreboard. (wins)
+- Extra items. (Level Booster, Speed Booster)
+
+It is important! Upload the map to other website involves a report!
+Copyright © 2017 SpleefRunners Minecraft Map. All rights reserved.
 
 
-You can support our work with a diamond on PlanetMinecraft.com
-If you are recording, please send the clip to scrubloverz@gmail.com
+
